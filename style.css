@@ -1,0 +1,188 @@
+.header {
+    text-align: center;
+    background-image: url(images/donation7.jpg);
+    width: 1440px;
+    height: 669px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 250px;
+}
+
+.header-description {
+    color: #FFFFFF;
+}
+
+.header-title {
+    font-weight: 700;
+    font-size: 65px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    color: #00a4c8;
+    ;
+}
+
+.btn-primary {
+
+    color: #FFFFFF;
+    font-size: 15px;
+    font-weight: 600;
+    border: 0;
+    padding: 18px 35px;
+    width: 160px;
+    height: 56px;
+    background: #FF5959;
+    border-radius: 5px;
+}
+
+.donate {
+    text-align: center;
+
+}
+
+.donate-box {
+    display: flex;
+    gap: 22px;
+    justify-content: center;
+    margin-top: px;
+}
+
+.description-2 {
+    color: #707070;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.quantity-1 {
+    box-sizing: border-box;
+    background: #FAFAFA;
+    border-radius: 5px;
+    padding-top: 44px;
+    padding-bottom: 44px;
+    padding-right: 25px;
+    padding-left: 25px;
+    border: 0.5px solid #0e0202;
+}
+
+.quantity-2 {
+    box-sizing: border-box;
+    background: #FFEEEE;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+    padding-top: 44px;
+    padding-bottom: 44px;
+    padding-right: 25px;
+    padding-left: 25px;
+}
+
+.quantity-3 {
+    box-sizing: border-box;
+    background: #FAFAFA;
+    border-radius: 5px;
+    padding-top: 44px;
+    padding-bottom: 44px;
+    padding-right: 25px;
+    padding-left: 25px;
+    border: 0.5px solid #0e0202;
+}
+
+
+.quantity-4 {
+    box-sizing: border-box;
+    background: #FAFAFA;
+    border-radius: 5px;
+    padding-top: 44px;
+    padding-bottom: 44px;
+    padding-right: 25px;
+    padding-left: 25px;
+    border: 0.5px solid #0e0202;
+}
+
+
+.quantity-5 {
+    box-sizing: border-box;
+    background: #FAFAFA;
+    border-radius: 5px;
+    padding-top: 44px;
+    padding-bottom: 44px;
+    padding-right: 25px;
+    padding-left: 25px;
+    border: 0.5px solid #0e0202;
+}
+
+.amount {
+    margin-top: 25px;
+}
+
+.donate-plan {
+    text-align: center;
+}
+
+.donate-plan-card {
+    display: flex;
+    justify-content: center;
+    gap: 47px;
+}
+
+.card-title {
+    color: #121212;
+    font-weight: 600;
+    font-size: 24px;
+    padding: 50px 60px 40px 25px;
+}
+
+.card-1 {
+    background: rgba(79, 157, 166, 0.1);
+    border-radius: 5px;
+}
+
+.card-2 {
+    border-radius: 5px;
+    background: rgba(255, 89, 89, 0.1);
+}
+
+.card-3 {
+    border-radius: 5px;
+    background: #FFF4D6;
+}
+
+.ajaira-kam {
+    display: flex;
+    justify-content: center;
+}
+
+.helping-hand {
+    border-radius: 20px;
+}
+
+.faltu-pera {
+    margin-right: 70px;
+    margin-top: 30px;
+}
+
+.survive-section {
+    display: flex;
+    justify-content: center;
+}
+
+.survive-people {
+    border-radius: 25%
+}
+
+.survive-mini-section {
+    margin-left: 70px;
+    margin-top: 30px;
+}
+
+.btn-primary-pro {
+
+    font-size: 15px;
+    font: weight 800px;
+    border: solid black 1.8px;
+    padding: 18px 35px;
+    width: 200px;
+    height: 60px;
+    border-radius: 10px;
+    background: #139ded;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
